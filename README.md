@@ -1,5 +1,8 @@
-# A-B-Testing
+# Oectopus
 * Mobile App prototype which provides a platform for early childhood tutors to gain inspirations for dramatic corners ideas.
+
+## A-B-Testing
+* Factor: Ease of use
 
 ## Prototypes Link
 
